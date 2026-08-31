@@ -1,0 +1,15 @@
+# Concepts
+
+* [Market definition (Fred & Barney)](market-definition.md)
+* [Chaos theory — three principles](chaos-theory-three-principles.md)
+* [Fractal (market)](fractal.md)
+* [Balance line](balance-line.md)
+* [Momentum oscillator (5/34)](momentum-oscillator.md)
+* [Accelerator oscillator](accelerator-oscillator.md)
+* [Five dimensions of market structure](five-dimensions-of-market-structure.md)
+* [Five magic bullets](five-magic-bullets.md)
+* [Bar classification: squats, greens, fades, fakes](bar-classification-squats-greens-fades-fakes.md)
+* [Stop-placement rule](stop-placement-rule.md)
+* [Trading psychology: "want what the market wants"](trading-psychology-holy-grail.md)
+* [Technical analysis critique](technical-analysis-critique.md)
+* [Win/loss ratio fallacy](win-loss-ratio-fallacy.md)

@@ -1,0 +1,7 @@
+# Log
+
+## 2026-08-28
+* **Creation**: Ingested "The Practical Fractal: The Holy Grail to Trading" (Bill Williams) — first source in this wiki. Created the bundle root (`index.md`, this log) and 20 pages across `people/`, `organizations/`, `books/`, `sources/`, `concepts/`, and `case-studies/`. Raw source record at `/raw/sources/practical-fractal-bill-williams.md`. All pages `status: draft`, pending human review.
+
+## 2026-08-29
+* **Query**: Applied the [fractal](concepts/fractal.md) / [balance line](concepts/balance-line.md) / [momentum oscillator](concepts/momentum-oscillator.md) / [accelerator oscillator](concepts/accelerator-oscillator.md) framework ([five dimensions of market structure](concepts/five-dimensions-of-market-structure.md)) to live BTC/USDT 1m data (kucoin, via data-fetch tooling only, no ICT tools) to produce a trade ticket. No new pages filed — the output was market-data-specific, not durable synthesis. Bearish confluence (balance line, momentum, direction-of-momentum, accelerator all pointed down; fractal breakout not yet confirmed) led to a short setup entered on the [stop-placement rule](concepts/stop-placement-rule.md); see chat for the full ticket. Flagged during this query: the stop-placement rule's literal "second-back opposite fractal" landed on the wrong side of price in this choppy window, requiring a practical fallback to the nearest still-valid opposite fractal — a case worth folding into that page if a defining source is ever ingested.
